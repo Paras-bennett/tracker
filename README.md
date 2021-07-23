@@ -2,7 +2,7 @@
 
 TaskTracker is a team communication application that unifies team objectives and improves workflow.
 
-### [Live Demo](https://task-trackr.herokuapp.com/)
+
 
 ### Features
 
